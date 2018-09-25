@@ -1,5 +1,8 @@
 _repo: Prospectus-of-the-Scots-New-Zealand-Land-Company_57235
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57235-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Scots New Zealand Land Company
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '47487'
     url: http://www.gutenberg.org/2009/agents/47487
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57235#Prospectus-of-the-Scots-New-Zealand-Land-Company
 gutenberg_issued: '2018-05-29'
 gutenberg_type: Text
 identifiers:
